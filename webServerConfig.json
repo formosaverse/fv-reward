@@ -2,7 +2,7 @@
   "apiUrl": "https://crm.formosaverse.com/",
   "network": {
     "chainId": 137,
-    "jsonRpc": "https://rpc-mainnet.matic.network",
+    "jsonRpc": "https://polygon-rpc.com",
     "displayName": "Polygon Mainnet"
   },
   "contracts": [
