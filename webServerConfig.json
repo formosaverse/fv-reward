@@ -1,21 +1,21 @@
 {
-  "apiUrl": "https://crm.fv-dev.chelpis-app.com/",
+  "apiUrl": "https://crm.formosaverse.com/",
   "network": {
-    "chainId": 80001,
-    "jsonRpc": "https://matic-mumbai.chainstacklabs.com",
-    "displayName": "Polygon Testnet Mumbai"
+    "chainId": 137,
+    "jsonRpc": "https://rpc-mainnet.matic.network",
+    "displayName": "Polygon Mainnet"
   },
   "contracts": [
     {
       "type": "ERC721",
-      "address": "0x260F547Aa93B4Ba9c80d1EFa393DDFFc568a0eBd",
+      "address": "0xf1D0F35f4586BD7780773dB11691Fd9c91AABa2D",
       "price": "0x00",
       "metadataId": "8b68e7e9-254a-45ff-83f7-35af81e334a9",
       "vendorId": "2a187ef9-241a-4bc2-9443-24a5a70397de"
     },
     {
       "type": "ERC721",
-      "address": "0x260F547Aa93B4Ba9c80d1EFa393DDFFc568a0eBd",
+      "address": "0x53C74720e3D957a2b5D881B12789Ecfce7DD8C59",
       "price": "0x00",
       "metadataId": "bba7da96-a3f9-460f-b4f1-39925b821f5c",
       "vendorId": "38824ae4-56bc-4908-9fe3-6ced72ebe6e7"
