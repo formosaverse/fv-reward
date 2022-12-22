@@ -1,0 +1,29 @@
+{
+  "apiUrl": "https://crm.fv-dev.chelpis-app.com/",
+  "network": {
+    "chainId": 80001,
+    "jsonRpc": "https://matic-mumbai.chainstacklabs.com",
+    "displayName": "Polygon Testnet Mumbai"
+  },
+  "contracts": [
+    {
+      "type": "ERC721",
+      "address": "0x260F547Aa93B4Ba9c80d1EFa393DDFFc568a0eBd",
+      "price": "0x00",
+      "metadataId": "8b68e7e9-254a-45ff-83f7-35af81e334a9",
+      "vendorId": "2a187ef9-241a-4bc2-9443-24a5a70397de"
+    },
+    {
+      "type": "ERC721",
+      "address": "0x260F547Aa93B4Ba9c80d1EFa393DDFFc568a0eBd",
+      "price": "0x00",
+      "metadataId": "bba7da96-a3f9-460f-b4f1-39925b821f5c",
+      "vendorId": "38824ae4-56bc-4908-9fe3-6ced72ebe6e7"
+    }
+  ],
+  "line": {
+    "redirectUri": "https://reward.formosaverse.com",
+    "channelId": "1657308646",
+    "channelSecret": "045de4cc33ad31036faa3aa124e25b14"
+  }
+}
